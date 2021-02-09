@@ -30,7 +30,7 @@ const App = () => {
 
 ```
 
-3) use showToast function to show Toast
+3) Use showToast function to show Toast
 
 ```
 showToast("warn", "Warning!")
