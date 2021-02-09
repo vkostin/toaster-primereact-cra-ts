@@ -1,7 +1,18 @@
 {
   "name": "toaster-primereact-cra-ts",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "Viktor Kostin",
+    "url": "http://www.vkostin.com"
+  },
+  "private": false,
+  "licence": {
+    "type": "CC-0-1.0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+  },
+  "repository": {
+    "url": "https://github.com/vkostin/toaster-primereact-cra-ts"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -10,9 +21,13 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "primeflex": "^2.0.0",
+    "primeicons": "^4.1.0",
+    "primereact": "^6.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "react-transition-group": "^4.4.1",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
